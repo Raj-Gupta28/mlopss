@@ -1,5 +1,6 @@
 # Tarot-Reading-App
 
+
 ## Table of contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
